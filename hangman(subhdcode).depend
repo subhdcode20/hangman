@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1455018297 source:/home/subh/Documents/hangman(subhdcode)/main.cpp
+	<bits/stdc++.h>
+	<string>
+
